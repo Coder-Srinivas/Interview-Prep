@@ -1,0 +1,8 @@
+- Minimax Algorithm
+- Bellman Ford
+- Kosaraju Algorithm
+- Line Sweep
+- Binary Search Tree Iterator
+- Monotonic Stack
+- Slow and Fast Pointers
+- Binary Search Peak in an Array
